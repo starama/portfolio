@@ -120,7 +120,7 @@ link: https://github.com/starama
 image: $assets.files.images.github.png
 
 -- social.social-button-wrapper:
-link: https://instagram.com/Shivandangi_45
+link: https://instagram.com/Shivamdangi_45
 image: $assets.files.images.instagram.png
 
 -- social.social-button-wrapper:
@@ -170,7 +170,7 @@ spacing.fixed.px: 20
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: I'm
-secondTitle: YOUR_NAME,
+secondTitle: Shivam Dangi,
 
 -- lib.hero-ui-base-text-wrapper:
 firstTitle: frontend
